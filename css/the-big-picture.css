@@ -3,10 +3,36 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
+
 body {
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background-color: #282c35;
+  color: #999;
+  transition: background-color 0.3s ease;
+}
+
+body a,
+body .dot,
+body .page-title {
+  color: #35ccbc;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body blockquote {
+  color: rgb(200, 200, 200);
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: 9fr 1fr;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+}
+
+footer {
+  margin-top: 15%;
 }

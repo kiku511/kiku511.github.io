@@ -12,6 +12,8 @@ I am a Fullstack Developer and a GIS specialist. I love to create websites and s
 
 # Education
 
+![UW Purple Logo](uw-logo.png)
+
 ## University of Washington (Seattle, WA)
 
 **Bachelor of Science in Statistics & Geography (GIS concentration)** - June 2020
